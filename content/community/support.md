@@ -1,6 +1,6 @@
 ---
 id: support
-title: Where To Get Support
+title: Where To Get Supportt
 layout: community
 sectionid: community
 permalink: community/support.html
